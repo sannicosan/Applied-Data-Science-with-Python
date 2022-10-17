@@ -3,3 +3,4 @@ All the content of the "Applied Data Science with Python Specialization" offered
 
 More info here: https://www.coursera.org/specializations/data-science-python
 
+This repository include all content covered, along with the assignments, exercise and projects in the format of Jupyter Notebooks.
